@@ -10,5 +10,14 @@ fix boot pop_os!
 3 - open terminal and execute this comand:
 
 ```bash
-curl -sSL 
+curl -sSL https://raw.githubusercontent.com/victorratts13/fix-popos-boot/main/fix-popos-boot | sh
 ```
+4 - restart system
+
+>- NOTE: if permissions are required during the process, use Y for everything
+
+### Credits
+
+Victor Ratts
+@ratts13
+@victorratts
